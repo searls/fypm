@@ -1,0 +1,16 @@
+Copyright (c) $YEAR $NAME_OR_COMPANY
+
+Permission is granted only to view this code for informational, educational, or reference purposes. Any other use requires prior written permission from the author or a separate license.
+
+Prohibited Activities:
+1. Running, compiling, or otherwise executing the code.
+2. Copying or reproducing the code (in whole or in part).
+3. Modifying, adapting, or creating derivative works based on the code.
+4. Redistributing or sublicensing the code, whether for commercial or noncommercial purposes.
+5. Incorporating the code into any software, system, or product.
+
+This code is provided “AS IS” with no warranties of any kind, express or implied, including but not limited to implied warranties of merchantability, fitness for a particular purpose, and noninfringement. Under no circumstances shall the author be liable for any direct, indirect, incidental, special, or consequential damages arising from viewing or otherwise using this code.
+
+For permissions beyond viewing (such as reproduction, modification, or use), please contact $EMAIL_ADDRESS.
+
+This License shall be governed by the laws of $VENUE. If any provision is held to be unenforceable, the remaining provisions shall remain in effect. This License embodies the entire agreement regarding this code; all rights not expressly granted are reserved by the author.
