@@ -4,7 +4,7 @@ The "Fuck You Pay Me" or "FYPM" license is a boilerplate license to use in your 
 
 Unlike most "open source", this license grants you full access to view the source—and literally nothing else.
 
-Anyone is free to use and adapt this license for their own purposes.
+Anyone is free to use and adapt this license for their own purposes. (Ironically, the FYPM License itself is licensed under the [WTFPL](https://en.wikipedia.org/wiki/WTFPL).)
 
 ## License Text
 
