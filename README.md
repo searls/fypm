@@ -11,6 +11,10 @@ Anyone is free to use and adapt this license for their own purposes. (Ironically
 You can start by copying the below or grabbing [LICENSE.txt](/LICENSE.txt) and filling in all the words that start with `$` with your own info:
 
 ```
+FUCK YOU PAY ME LICENSE
+Version 2, April 23, 2025
+https://github.com/searls/fypm
+
 Copyright (c) $YEAR $NAME_OR_COMPANY
 
 Permission is granted only to view this code for informational, educational, or reference purposes. Any other use requires prior written permission from the author or a separate license.
